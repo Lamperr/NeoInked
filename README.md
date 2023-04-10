@@ -1,4 +1,4 @@
-# NeoInked - VS Code Dark Theme
+# NeoInked
 
 NeoInked is a dark theme for VSCode that was made because dark+ can still be too light and other themes dont use all the colors I like
 
