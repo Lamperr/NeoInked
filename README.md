@@ -1,11 +1,12 @@
 # NeoInked
 
-NeoInked is a dark theme for VSCode that was made because dark+ can still be too light and other themes dont use all the colors I like
+NeoInked is a dark theme that was made for all day and night usage with easy to read keywords when its bright out and a dark background to keep all uneeded light out at night.
 
 ## Preview
 
 ![NeoInked Theme Preview](images/file_cpp_preview.png)
-NeoInked currently has been tested on : C/C++, Rust, Javascript, Python, HTML, CSS, Markdown, and plain text files.
+NeoInked currently has been tested on : C/C++, Rust, Javascript, Python, HTML, CSS, Markdown, JSON, and plain text files.
+<br> You can look at what these previews look like [here](https://github.com/Lamperr/NeoInked/tree/main/images)
 
 ## Installation
 Go to VSCode marketplace and search up NeoInked and click install 
@@ -25,9 +26,11 @@ If you want to customize the theme, you can do so by creating a `settings.json` 
   }
 }
 ```
+You can also fork this theme and create your own or submit pull requests to fix any issues yourself
 
 ## Problems/Issues
-If you encounter a problem or issue feel free to open a new issue on my [github](https://github.com/Lamperr/NeoInked/issues) 
+If you encounter a problem or want to have support for a specific language feel free to open a new issue on my [github](https://github.com/Lamperr/NeoInked/issues) 
 
-<br><br>
-Also I know that if you open a JSON file it looks like a christmas tree but I will fix it soon
+#### Thanks for checking this theme out! 
+
+<!-- -nl (: -->
