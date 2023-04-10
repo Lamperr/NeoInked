@@ -1,56 +1,55 @@
 // NeoInked : a theme by Nathan Lamp
-// Feel free 
-//
+// Feel free to mess/customize whatever!
 
 {
   "type": "dark",
   "colors": {
 	
-    "focusBorder": "#2a1770c7", //sets the color of the border when an element is in focus.
+    "focusBorder": "#2a1770c7", 
     "dropdown.border": "#22184b00",
-    "editorHoverWidget.border": "#956adac2", //sets the color of the border of the hover widget in the editor.
-    "editorGroup.border": "#1d2520", //sets the color of the border around editor groups.
+    "editorHoverWidget.border": "#956adac2",
+    "editorGroup.border": "#1d2520", 
     "editorGroupHeader.tabsBorder": "#3313461c",
-    "tab.lastPinnedBorder": "#4792c493", ///sets the color of the border around the last pinned tab.
+    "tab.lastPinnedBorder": "#4792c493", 
 
     "sideBar.foreground": "#b8aeaee0",
-    "badge.foreground": "#b64bb6", //: sets the foreground color of badges.
-    "errorForeground": "#922a2a", // sets the color for error messages.
+    "badge.foreground": "#b64bb6", 
+    "errorForeground": "#922a2a", 
     "dropdown.foreground": "#ffffff",
-    "list.highlightForeground": "#c4c9df7a", //sets the color of the highlighted text in a list.
-    "pickerGroup.foreground": "#9b8288", // sets the color of the text in picker groups.
-    "editor.foreground": "#e8d0ff", //sets the foreground color of the editor.  					PLAINTEXCT
-    "editorLineNumber.activeForeground": "#b64bb6", // sets the color of the line numbers in the editor.
-    "editorCursor.foreground": "#b64bb6", //sets the color of the cursor in the editor.
-    "editorWhitespace.foreground": "#3d538f", // sets the color of whitespace characters in the editor.
-    "ports.iconRunningProcessForeground": "#343533", //sets the color of the running process icon in the ports view.
+    "list.highlightForeground": "#c4c9df7a", 
+    "pickerGroup.foreground": "#9b8288", 
+    "editor.foreground": "#e8d0ff",
+    "editorLineNumber.activeForeground": "#b64bb6",
+    "editorCursor.foreground": "#b64bb6", 
+    "editorWhitespace.foreground": "#3d538f", 
+    "ports.iconRunningProcessForeground": "#343533", 
 
-    "debugToolBar.background": "#07141d", //sets the background color of the debug toolbar.
-    "titleBar.activeBackground": "#081a25", // sets the background color of the active title bar.
-    "statusBar.background": "#0c2d55", //: sets the background color of the status bar.
-    "statusBarItem.remoteBackground": "#1e4775", //sets the background color of remote items in the status bar.
-    "statusBar.noFolderBackground": "#0ca57fc2", //sets the background color of the status bar when no folder is open.
-    "statusBar.debuggingBackground": "#8a2d63", //sets the background color of the status bar when debugging.
-    "activityBar.background": "#081a25b0", //sets the background color of the activity bar
-    "progressBar.background": "#365e48f5", //sets the background color of progress bars.
-    "badge.background": "#00000050", // sets the background color of badges.
-    "sideBar.background": "#071722", //sets the background color of the sidebar.
-    "editorGroup.dropBackground": "#0f283a", // sets the background color of the drop background in the editor group.
-    "peekViewResult.background": "#2d148aab", //sets the background color of the peek view results.
-    "tab.inactiveBackground": "#001c40", // sets the background color of inactive tabs.
-    "editorGroupHeader.tabsBackground": "#10054b50", //sets the background color of the tabs in the editor group header.            OEDIOEDFJIO
-    "editor.lineHighlightBackground": "#8c34df00", // sets the background color of the line highlight in the editor.
-    "editorWidget.background": "#071d14", //sets the background color of editor widgets.
-    "editorHoverWidget.background": "#101b24", //sets the background color of the hover widget in the editor.
-    "editor.selectionBackground": "#3b1399d2", //sets the background color of the selected text in the editor.
-    "minimap.selectionHighlight": "#056f8f41", // sets the color of the selection highlight in the minimap.
-    "quickInputList.focusBackground": "#413144de", //sets the background color of the selected item in a quick input list.
-    "list.activeSelectionBackground": "#58353560", //sets the background color of the selected item in a list when it is active.
-    "list.inactiveSelectionBackground": "#1c381f7e", // sets the background color of the selected item in a list when it is inactive.
-    "list.hoverBackground": "#38272773", // sets the background color of a list item when it is hovered over.
-    "editor.background": "#07141d", // sets the background color of the editor.
-    "input.background": "#29354bd7", //sets the background color of input fields.
-    "dropdown.background": "#261644f5" //sets the background color of dropdown menus.
+    "debugToolBar.background": "#07141d", 
+    "titleBar.activeBackground": "#081a25", 
+    "statusBar.background": "#0c2d55", 
+    "statusBarItem.remoteBackground": "#1e4775",
+    "statusBar.noFolderBackground": "#0ca57fc2", 
+    "statusBar.debuggingBackground": "#8a2d63", 
+    "activityBar.background": "#081a25b0", 
+    "progressBar.background": "#365e48f5",
+    "badge.background": "#00000050", 
+    "sideBar.background": "#071722",
+    "editorGroup.dropBackground": "#0f283a",
+    "peekViewResult.background": "#2d148aab", 
+    "tab.inactiveBackground": "#001c40",
+    "editorGroupHeader.tabsBackground": "#10054b50", 
+    "editor.lineHighlightBackground": "#8c34df00", 
+    "editorWidget.background": "#071d14", 
+    "editorHoverWidget.background": "#101b24", 
+    "editor.selectionBackground": "#3b1399d2",
+    "minimap.selectionHighlight": "#056f8f41",
+    "quickInputList.focusBackground": "#413144de", 
+    "list.activeSelectionBackground": "#58353560", 
+    "list.inactiveSelectionBackground": "#1c381f7e", 
+    "list.hoverBackground": "#38272773",
+    "editor.background": "#07141d",
+    "input.background": "#29354bd7", 
+    "dropdown.background": "#261644f5" 
 
   },
   "tokenColors": [
@@ -65,7 +64,7 @@
       "settings": { "foreground": "#FFFFFF" }
     },
     {
-      "name": "Comment", // comment color
+      "name": "Comment", 
       "scope": "comment",
       "settings": { "fontStyle": "italic", "foreground": "#22923e" }
     },
@@ -76,19 +75,27 @@
     },
 
     {
-      "name": "Tag Link, Regular Expression, GitGutter deleted", // functions like cout 
+      "name": "Tag Link, Regular Expression, GitGutter deleted", 
       "scope": " support.other.variable, string.other.link, string.regexp, entity.name.tag, entity.other.attribute-name, meta.tag, declaration.tag, markup.deleted.git_gutter",
       "settings": { "fontStyle": "", "foreground": "#70ffbc" } 
     },
     {
       "name": "Variable, Paramaters, Number, Constant, Tag Attribute, Embedded",
       "scope": "variable, variable.parameter, constant.numeric, constant.language, support.constant, constant.character, punctuation.section.embedded, keyword.other.unit",
-      "settings": { "fontStyle": "", "foreground": "#eef893" } // params and number int a = 10<=
+      "settings": { "fontStyle": "", "foreground": "#eef893" } 
     },
     {
       "name": "Class, Support",
-      "scope": "entity.name.class, entity.name.type, entity.name.namespace, entity.name.scope-resolution, support.type, support.class",
-      "settings": { "fontStyle": "", "foreground": "#20da5e" } // user made / function classes
+      "scope": "entity.name.class, entity.name.type, entity.name.namespace, entity.name.scope-resolution, support.class",
+      "settings": { "fontStyle": "", "foreground": "#20da5e" } 
+    },
+    {
+      "name": "json fix",
+      "scope": "support.type",
+      "settings": {
+        "foreground": "#27b4df",
+        "fontStyle": ""
+      }
     },
     {
       "name": "Symbols, Inherited Class, Markup Heading, GitGutter inserted",
@@ -99,24 +106,24 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#f16868", // things inside quotes
+        "foreground": "#f77b7b", 
         "fontStyle": "italic"
       }
     },
     {
       "name": "Operator, Misc",
       "scope": "keyword.operator, constant.other.color",
-      "settings": { "foreground": "#ff6ee0" } // keyword like new
+      "settings": { "foreground": "#ff6ee0" } 
     },
     {
       "name": "Function, Special Method, Block Level, GitGutter changed",
       "scope": "entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level, markup.changed.git_gutter",
-      "settings": { "fontStyle": "", "foreground": "#ffba6b" } // user made functions
+      "settings": { "fontStyle": "", "foreground": "#ffba6b" } 
     },
     {
       "name": "Keyword, Storage",
       "scope": "keyword, storage, storage.type, entity.name.tag.css",
-      "settings": { "fontStyle": "", "foreground": "#54a6cc" } //things like int char 
+      "settings": { "fontStyle": "", "foreground": "#54a6cc" } 
     },
     {
       "name": "Invalid",
@@ -204,3 +211,6 @@
   ],
   "semanticHighlighting": true
 }
+
+
+// -nl (:
