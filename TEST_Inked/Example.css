@@ -1,0 +1,77 @@
+/* Set the font for the entire page */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Style a heading element */
+  h1 {
+    color: #ff0000; /* Set the text color to red */
+    font-size: 32px; /* Set the font size */
+    text-align: center; /* Center the text */
+    margin-bottom: 20px; /* Add some space below the heading */
+  }
+  
+  /* Style a paragraph element */
+  p {
+    font-size: 16px; /* Set the font size */
+    line-height: 1.5; /* Set the line height */
+    margin-bottom: 10px; /* Add some space below the paragraph */
+  }
+  
+  /* Style a link */
+  a {
+    color: #0000ff; /* Set the text color to blue */
+    text-decoration: none; /* Remove the underline */
+  }
+  
+  /* Style an image */
+  img {
+    max-width: 100%; /* Ensure the image doesn't overflow its container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove any margins */
+    margin: 0 auto; /* Center the image */
+    border: 1px solid #ccc; /* Add a border */
+    border-radius: 5px; /* Add rounded corners */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Add a drop shadow */
+  }
+  
+  /* Style a button */
+  button {
+    padding: 10px 20px; /* Add some padding */
+    background-color: #008000; /* Set the background color to green */
+    color: #ffffff; /* Set the text color to white */
+    border: none; /* Remove the border */
+    border-radius: 5px; /* Add rounded corners */
+    cursor: pointer; /* Change the mouse cursor on hover */
+    transition: background-color 0.3s ease-in-out; /* Add a transition effect */
+  }
+  
+  button:hover {
+    background-color: #006600; /* Darken the background color on hover */
+  }
+  
+  /* Style a form */
+  form {
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Stack the elements vertically */
+  }
+  
+  /* Style an input field */
+  input {
+    padding: 5px; /* Add some padding */
+    margin-bottom: 10px; /* Add some space below the input */
+    border: 1px solid #ccc; /* Add a border */
+    border-radius: 5px; /* Add rounded corners */
+  }
+  
+  /* Style a select dropdown */
+  select {
+    padding: 5px; /* Add some padding */
+    margin-bottom: 10px; /* Add some space below the dropdown */
+    border: 1px solid #ccc; /* Add a border */
+    border-radius: 5px; /* Add rounded corners */
+    background-color: #f2f2f2; /* Set the background color */
+    appearance: none; /* Remove the default appearance */
+    -webkit-appearance: none; /* Remove the default appearance on WebKit browsers */
+    /* background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 9 */
+  }
