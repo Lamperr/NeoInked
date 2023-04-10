@@ -5,16 +5,11 @@ NeoInked is a dark theme for VSCode that was made because dark+ can still be too
 ## Preview
 
 ![NeoInked Theme Preview](images/file_cpp_preview.png)
-NeoInked currently has been tested on : C/C++, Rust, Javascript, Python, HTML, CSS, and plain text files.
+NeoInked currently has been tested on : C/C++, Rust, Javascript, Python, HTML, CSS, Markdown, and plain text files.
 
 ## Installation
-Right now the theme is not listed on VSCode extension marketplace but hopefully it should be soon. <br>
-<br>
-If you want to try the theme out you can donwload the .vsix file and open it in a workspace in VSCode, you can then right click on it and hit install and the theme should be where you select your other themes
-
-<!-- Alternatively, you can download the extension from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=your-username.NeoInked) and install it manually. -->
-
-
+Go to VSCode marketplace and search up NeoInked and click install 
+<br> You can also go to the [Marketplace](https://marketplace.visualstudio.com/items?itemName=nlamp.neoinked) and install manually
 
 ## Customization
 
