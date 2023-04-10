@@ -33,3 +33,6 @@ If you want to customize the theme, you can do so by creating a `settings.json` 
 
 ## Problems/Issues
 If you encounter a problem or issue feel free to open a new issue on my [github](https://github.com/Lamperr/NeoInked/issues) 
+
+<br><br>
+Also I know that if you open a JSON file it looks like a christmas tree but I will fix it soon
