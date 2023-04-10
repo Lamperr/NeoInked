@@ -76,8 +76,16 @@
 
     {
       "name": "Tag Link, Regular Expression, GitGutter deleted", 
-      "scope": " support.other.variable, string.other.link, string.regexp, entity.name.tag, entity.other.attribute-name, meta.tag, declaration.tag, markup.deleted.git_gutter",
+      "scope": " support.other.variable, string.other.link, string.regexp, meta.tag, declaration.tag, markup.deleted.git_gutter",
       "settings": { "fontStyle": "", "foreground": "#70ffbc" } 
+    },
+    {
+      "name": "name tag",
+      "scope": "entity.name.tag",
+      "settings": {
+        "foreground": "#699fe6",
+        "fontStyle": "bold"
+      }
     },
     {
       "name": "Variable, Paramaters, Number, Constant, Tag Attribute, Embedded",
@@ -93,7 +101,7 @@
       "name": "json fix",
       "scope": "support.type",
       "settings": {
-        "foreground": "#27b4df",
+        "foreground": "#699fe6",
         "fontStyle": ""
       }
     },
