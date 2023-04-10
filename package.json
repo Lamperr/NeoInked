@@ -1,0 +1,22 @@
+{
+  "name": "neoinked",
+  "displayName": "NeoInked",
+  "description": "A theme that has a dark blue background and easy to read keywords",
+  "version": "0.0.1",
+  "repository": {"url": "https://github.com/Lamperr/NeoInked"},
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NeoInked",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NeoInked-color-theme.json"
+      }
+    ]
+  }
+}
