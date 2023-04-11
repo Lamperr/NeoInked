@@ -95,7 +95,7 @@
     {
       "name": "Number, ascii characters",
       "scope": "constant.numeric, constant.language, support.constant, constant.character, punctuation.section.embedded, keyword.other.unit",
-      "settings": { "foreground": "#f75cf7c2"}
+      "settings": { "foreground": "#d859d8c2"}
     },
     {
       "name": "Class, Support",
@@ -119,14 +119,24 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#ff9797", //f77b7b
+        "foreground": "#ff9797", 
         "fontStyle": "italic"
       }
     },
     {
       "name": "Operator, Misc",
       "scope": "keyword.operator, constant.other.color",
-      "settings": { "foreground": "#adadad" } 
+      "settings": { "foreground": "#aaaaaa" } 
+    },
+    {
+      "name": "New keyword and return",
+      "scope": "keyword.operator.new, keyword.control.return",
+      "settings": { "foreground": "#ff06eaf6" } 
+    },
+    {
+      "name": "Operator, Misc",
+      "scope": "keyword ",
+      "settings": { "foreground": "#e5ff00" } 
     },
     {
       "name": "Function, Special Method, Block Level, GitGutter changed",
