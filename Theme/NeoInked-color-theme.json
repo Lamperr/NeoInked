@@ -90,7 +90,7 @@
     {
       "name": "Variable, Paramaters, Number, Constant, Tag Attribute, Embedded",
       "scope": "variable, variable.parameter, constant.numeric, constant.language, support.constant, constant.character, punctuation.section.embedded, keyword.other.unit",
-      "settings": { "fontStyle": "", "foreground": "#eef893" } 
+      "settings": { "fontStyle": "", "foreground": "#54a6cc" }
     },
     {
       "name": "Class, Support",
@@ -101,7 +101,7 @@
       "name": "json fix",
       "scope": "support.type",
       "settings": {
-        "foreground": "#699fe6",
+        "foreground": "#b2a4d8",
         "fontStyle": ""
       }
     },
@@ -121,7 +121,7 @@
     {
       "name": "Operator, Misc",
       "scope": "keyword.operator, constant.other.color",
-      "settings": { "foreground": "#ff6ee0" } 
+      "settings": { "foreground": "#adadad" } 
     },
     {
       "name": "Function, Special Method, Block Level, GitGutter changed",
@@ -131,7 +131,7 @@
     {
       "name": "Keyword, Storage",
       "scope": "keyword, storage, storage.type, entity.name.tag.css",
-      "settings": { "fontStyle": "", "foreground": "#54a6cc" } 
+      "settings": { "fontStyle": "", "foreground": "#eef893" }
     },
     {
       "name": "Invalid",
