@@ -30,6 +30,8 @@ You can also fork this theme and create your own or submit pull requests to fix 
 
 ## Problems/Issues
 If you encounter a problem or want to have support for a specific language feel free to open a new issue on my [github](https://github.com/Lamperr/NeoInked/issues) 
+<br>
+I know that javascript return function is not colored correctly I will try to fix it soon
 
 #### Thanks for checking this theme out! 
 
