@@ -29,7 +29,7 @@
     "statusBar.background": "#0c2d55", 
     "statusBarItem.remoteBackground": "#1e4775",
     "statusBar.noFolderBackground": "#0ca57fc2", 
-    "statusBar.debuggingBackground": "#8a2d63", 
+    "statusBar.debuggingBackground": "#e22a96", 
     "activityBar.background": "#081a25b0", 
     "progressBar.background": "#365e48f5",
     "badge.background": "#00000050", 
@@ -88,20 +88,25 @@
       }
     },
     {
-      "name": "Variable, Paramaters, Number, Constant, Tag Attribute, Embedded",
-      "scope": "variable, variable.parameter, constant.numeric, constant.language, support.constant, constant.character, punctuation.section.embedded, keyword.other.unit",
+      "name": "Variable, Paramaters",
+      "scope": "variable, variable.parameter",
       "settings": { "fontStyle": "", "foreground": "#54a6cc" }
+    },
+    {
+      "name": "Number, ascii characters",
+      "scope": "constant.numeric, constant.language, support.constant, constant.character, punctuation.section.embedded, keyword.other.unit",
+      "settings": { "foreground": "#f75cf7c2"}
     },
     {
       "name": "Class, Support",
       "scope": "entity.name.class, entity.name.type, entity.name.namespace, entity.name.scope-resolution, support.class",
-      "settings": { "fontStyle": "", "foreground": "#20da5e" } 
+      "settings": { "fontStyle": "", "foreground": "#35c766" } 
     },
     {
       "name": "json fix",
       "scope": "support.type",
       "settings": {
-        "foreground": "#b2a4d8",
+        "foreground": "#80b7ff",
         "fontStyle": ""
       }
     },
@@ -114,7 +119,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#f77b7b", 
+        "foreground": "#ff9797", //f77b7b
         "fontStyle": "italic"
       }
     },
@@ -131,7 +136,7 @@
     {
       "name": "Keyword, Storage",
       "scope": "keyword, storage, storage.type, entity.name.tag.css",
-      "settings": { "fontStyle": "", "foreground": "#eef893" }
+      "settings": { "fontStyle": "", "foreground": "#bdff66" }
     },
     {
       "name": "Invalid",
