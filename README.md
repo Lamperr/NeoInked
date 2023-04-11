@@ -30,6 +30,8 @@ You can also fork this theme and create your own or submit pull requests to fix 
 
 ## Problems/Issues
 If you encounter a problem or want to have support for a specific language feel free to open a new issue on my [github](https://github.com/Lamperr/NeoInked/issues) 
+<br><br>
+See all future changes in `comingsoon.md`
 
 #### Thanks for checking this theme out! 
 

@@ -2,14 +2,14 @@
   "name": "neoinked",
   "displayName": "NeoInked",
   "description": "A theme that features a dark blue background and easy to read keywords",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "repository": {"url": "https://github.com/Lamperr/NeoInked"},
   "publisher": "nlamp",
   "icon": "images/file_logo_128x128.png",
   "engines": {
     "vscode": "^1.65.0"
   },
-  "keywords": ["Dark, neoinked, blue, inked, theme"],
+  "keywords": ["Dark, neoinked, ink, inked, theme"],
   "categories": [
     "Themes"
   ],
