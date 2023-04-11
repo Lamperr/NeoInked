@@ -4,7 +4,7 @@ NeoInked is a dark theme that was made for all day and night usage with easy to 
 
 ## Preview
 
-![NeoInked Theme Preview](images/file_cpp-full_preview.png)
+![NeoInked Theme Preview](images/file_cpp_preview.png)
 NeoInked currently has been tested on : C/C++, Rust, Javascript, Python, HTML, CSS, Markdown, JSON, and plain text files.
 <br> You can look at what these previews look like [here](https://github.com/Lamperr/NeoInked/tree/main/images)
 
@@ -30,8 +30,8 @@ You can also fork this theme and create your own or submit pull requests to fix 
 
 ## Problems/Issues
 If you encounter a problem or want to have support for a specific language feel free to open a new issue on my [github](https://github.com/Lamperr/NeoInked/issues) 
-<br>
-I know that javascript return function is not colored correctly I will try to fix it soon
+<br><br>
+See all future changes in `comingsoon.md`
 
 #### Thanks for checking this theme out! 
 
