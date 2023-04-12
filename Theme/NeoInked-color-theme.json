@@ -1,4 +1,5 @@
 // NeoInked : a theme by Nathan Lamp
+
 // Feel free to mess/customize whatever!
 
 {
@@ -54,15 +55,7 @@
   },
   "tokenColors": [
     { "settings": { "background": "#002451", "foreground": "#FFFFFF" } },
-    {
-      "scope": [
-        "meta.embedded",
-        "source.groovy.embedded",
-        "meta.jsx.children",
-        "string meta.image.inline.markdown"
-      ],
-      "settings": { "foreground": "#FFFFFF" }
-    },
+
     {
       "name": "Comment", 
       "scope": "comment",
@@ -100,7 +93,7 @@
     {
       "name": "Class, Support",
       "scope": "entity.name.class, entity.name.type, entity.name.namespace, entity.name.scope-resolution, support.class",
-      "settings": { "fontStyle": "", "foreground": "#35c766" } 
+      "settings": { "fontStyle": "", "foreground": "#46b56b" } 
     },
     {
       "name": "json fix",
@@ -133,100 +126,24 @@
       "scope": "keyword.operator.new, keyword.control.return",
       "settings": { "foreground": "#ff06eaf6" } 
     },
-    {
-      "name": "Operator, Misc",
-      "scope": "keyword ",
-      "settings": { "foreground": "#e5ff00" } 
-    },
+
     {
       "name": "Function, Special Method, Block Level, GitGutter changed",
       "scope": "entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level, markup.changed.git_gutter",
-      "settings": { "fontStyle": "", "foreground": "#ffba6b" } 
+      "settings": { "fontStyle": "", "foreground": "#ffa135" } 
     },
     {
       "name": "Keyword, Storage",
       "scope": "keyword, storage, storage.type, entity.name.tag.css",
-      "settings": { "fontStyle": "", "foreground": "#bdff66" }
+      "settings": { "fontStyle": "", "foreground": "#cb83ff" }
     },
     {
       "name": "Invalid",
       "scope": "invalid",
       "settings": { "fontStyle": "", "foreground": "#ec1e1e" }
     },
-    {
-      "name": "Separator",
-      "scope": "meta.separator",
-      "settings": { "foreground": "#FFFFFF" }
-    },
-    {
-      "name": "Deprecated",
-      "scope": "invalid.deprecated",
-      "settings": { "fontStyle": "", "foreground": "#bd8b2f" }
-    },
-    {
-      "name": "Diff foreground",
-      "scope": "markup.inserted.diff, markup.deleted.diff, meta.diff.header.to-file, meta.diff.header.from-file",
-      "settings": { "foreground": "#FFFFFF" }
-    },
-    {
-      "name": "Diff insertion",
-      "scope": "markup.inserted.diff, meta.diff.header.to-file",
-      "settings": { "foreground": "#a5cc0a" }
-    },
-    {
-      "name": "Diff deletion",
-      "scope": "markup.deleted.diff, meta.diff.header.from-file",
-      "settings": { "foreground": "#c82829" }
-    },
-    {
-      "name": "Diff header",
-      "scope": "meta.diff.header.from-file, meta.diff.header.to-file",
-      "settings": { "foreground": "#4271ae" }
-    },
-    {
-      "name": "Diff range",
-      "scope": "meta.diff.range",
-      "settings": { "fontStyle": "italic", "foreground": "#3e999f" }
-    },
-    {
-      "name": "Markup Quote",
-      "scope": "markup.quote",
-      "settings": { "foreground": "#FFC58F" }
-    },
-    {
-      "name": "Markup Lists",
-      "scope": "markup.list",
-      "settings": { "foreground": "#BBDAFF" }
-    },
-    {
-      "name": "Markup Styling",
-      "scope": "markup.bold, markup.italic",
-      "settings": { "foreground": "#FFC58F" }
-    },
-    {
-      "name": "Markup: Strong",
-      "scope": "markup.bold",
-      "settings": { "fontStyle": "bold" }
-    },
-    {
-      "name": "Markup: Emphasis",
-      "scope": "markup.italic",
-      "settings": { "fontStyle": "italic" }
-    },
-    {
-      "scope": "markup.strikethrough",
-      "settings": { "fontStyle": "strikethrough" }
-    },
-    {
-      "name": "Markup Inline",
-      "scope": "markup.inline.raw",
-      "settings": { "fontStyle": "", "foreground": "#FF9DA4" }
-    },
-    {
-      "name": "Markup Headings",
-      "scope": "markup.heading",
-      "settings": { "fontStyle": "bold" }
-    },
+    
+
     { "scope": "token.info-token", "settings": { "foreground": "#6796e6" } },
     { "scope": "token.warn-token", "settings": { "foreground": "#cd9731" } },
     { "scope": "token.error-token", "settings": { "foreground": "#f44747" } },
