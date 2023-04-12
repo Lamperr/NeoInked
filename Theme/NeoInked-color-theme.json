@@ -1,6 +1,6 @@
 // NeoInked : a theme by Nathan Lamp
 
-// Feel free to mess/customize whatever!
+// Feel free to mess with/customize whatever!
 
 {
   "type": "dark",
@@ -99,7 +99,7 @@
       "name": "json fix",
       "scope": "support.type",
       "settings": {
-        "foreground": "#80b7ff",
+        "foreground": "#73b0ff",
         "fontStyle": ""
       }
     },
