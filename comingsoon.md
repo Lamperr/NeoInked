@@ -7,6 +7,7 @@ JS return function color change
 Adding support for more languages and make sure they work well!
 <br>
 C++ will have specific colors for certain keywords soon
-
+<br>
+More will be added when I do not have midterms
 #### Thanks for checking NeoInked out!
 <!-- -nl (: -->
